@@ -1,2 +1,2 @@
-# lunarPixelEngine
-A python pixel draw engine with canvas system.
+# Lunar Pixel Engine
+Note: This project secured with **MIT**.
